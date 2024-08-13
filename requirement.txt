@@ -1,0 +1,45 @@
+Project Requirements for Data Analytic Portal
+Technical Requirements:
+Programming Languages and Libraries:
+
+Python: Main programming language.
+Streamlit: For creating the interactive web application.
+Pandas: For data manipulation and analysis.
+Plotly: For creating interactive visualizations.
+Data Handling:
+
+Support for uploading CSV and Excel files.
+Ability to read and process data from uploaded files.
+Data Display and Analysis:
+
+Show dataset details: number of rows and columns.
+Display statistical summary and data types.
+Show top and bottom rows of the dataset.
+Count and visualize unique values in selected columns.
+Group data by selected columns and perform aggregation operations (sum, max, min, mean, median, count).
+Visualization Options:
+
+Bar Chart: For visualizing value counts.
+Line Chart: For trend analysis.
+Pie Chart: For proportional data representation.
+Scatter Plot: For relationship analysis.
+Sunburst Chart: For hierarchical data visualization.
+User Interface:
+
+File Uploader: For uploading CSV or Excel files.
+Interactive Widgets: Sliders, select boxes, and input fields for user interaction.
+Tabs and Expanders: To organize and present information effectively.
+Deployment:
+
+Run the application locally or deploy on a web server to make it accessible online.
+System Requirements:
+Python Environment:
+
+Python 3.x installed.
+Libraries: Streamlit, Pandas, Plotly.
+Hardware:
+
+A computer with sufficient resources to handle file uploads (up to 200MB).
+Software:
+
+Compatible web browser for interacting with the Streamlit app.
